@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="Babichev_lab0/Babichev_lab0.vcxproj" />
+  <Project Path="Babichev_lab0/Babichev_lab0.vcxproj" Id="5d1f5a3d-4537-419e-acd2-6271a1ab1fbe" />
 </Solution>

@@ -2,11 +2,14 @@
 //
 
 #include <iostream>
+using namespace std;
 
 int main()
 {
-    int x
-    std::cout << "Hello World!\n";
+    int x;
+    cout << "Hello World!\n";
+    cin >> x;
+    cout << 10 / x << "\n";
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
